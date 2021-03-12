@@ -1,5 +1,5 @@
 name: translator
-version: 1.0.0
+version: 0.2.0
 description: A free and unlimited Google Translate API for Dart. You can use it for translate strings and text for educational purpose.
 #author: Gabriel N. Pacheco <gabrielpacheco23@live.com>
 #migration to null safety: Andrés Rivera C. <theandrixx@gmail.com>
